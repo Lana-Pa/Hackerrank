@@ -5,6 +5,6 @@ v2 = 3.0
 
 
 if (x1-x2)%(v2-v1)==0:
-    print "Yes"
+    print "Yes!"
 else:
     print "No"
